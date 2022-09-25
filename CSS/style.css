@@ -23,6 +23,11 @@ nav ul li a{
     color: white;
     text-decoration: none;
 }
+nav ul li a:hover{
+    background-color: lightgreen;
+    color: black;
+    border-radius: 5%;
+}
 .brand img{
     width: 44px;
     padding: 0 8px;
